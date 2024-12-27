@@ -5,8 +5,8 @@ Legendary sources about artificial intelligence
 
 😈😈😈😈Transformer😈😈😈😈
 
-Visual Guide to Transformer Neural Networks - (Episode 2) Multi-Head & Self-Attention --> https://www.youtube.com/watch?v=mMa2PmYJlCo&t=460s
+    Visual Guide to Transformer Neural Networks - (Episode 2) Multi-Head & Self-Attention --> https://www.youtube.com/watch?v=mMa2PmYJlCo&t=460s
 
 👽👽👽👽AWS👽👽👽👽
 
-https://medium.com/@rohitshrivastava87/2-how-to-read-data-from-s3-bucket-using-python-945324d73d61
+    https://medium.com/@rohitshrivastava87/2-how-to-read-data-from-s3-bucket-using-python-945324d73d61
