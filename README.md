@@ -6,6 +6,9 @@ Legendary sources about artificial intelligence
 😈😈😈😈Transformer😈😈😈😈
 
     Visual Guide to Transformer Neural Networks - (Episode 2) Multi-Head & Self-Attention --> https://www.youtube.com/watch?v=mMa2PmYJlCo&t=460s
+    Next--> https://www.kaggle.com/code/aisuko/causal-self-attention ,
+            https://medium.com/@14prakash/understanding-autoregressive-image-models-aim-introduced-by-apple-9efd06d097b5,
+            https://towardsdatascience.com/from-masked-image-modeling-to-autoregressive-image-modeling-d9a3cadf72a1
 
 👽👽👽👽AWS👽👽👽👽
 
